@@ -1,2 +1,3 @@
 # Manpower-Managment-Syatem
-Manpower_Managment_System
+
+*** Make Sure All files is in the XAMPP > htdocs >
